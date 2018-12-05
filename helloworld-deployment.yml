@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: karthequian/helloworld:latest
+        image: htduong/htduonghello:latest
         ports:
         - containerPort: 80
